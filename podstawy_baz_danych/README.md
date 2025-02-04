@@ -9,7 +9,7 @@
     - DBMS (Oracle, PostgreSQL, MS SQL)
     - aplikacje (Java, Python)
 
----
+---  
 
 ## PO CO UŻYWAĆ BAZY DANYCH
 
@@ -40,4 +40,16 @@
         - sharding
         - partycjonowanie
 
----
+---  
+
+## ZAWARTOŚĆ
+
+- rodzaje baz danych
+- architektura baz danych
+- model relacyjny
+- modelowanie baz danych
+- obiekty w bazie danych
+- baza danych vs hurtownia danych
+- tworzenie bazy danych
+
+---  
