@@ -32,13 +32,11 @@
 
 ## PROCES TWORZENIA BAZY DANYCH
 
- _________________________
-|                         |
-|        ARCHITEKT IT     |
-|    projekt systemu IT   |
-|_________________________|
-            |
-            V
+             ARCHITEKT IT     
+           projekt systemu IT   
+
+                ||
+                \/
 
             ADMINISTRATOR BAZ DANYCH
         instalacja i konfiguracja bazy
