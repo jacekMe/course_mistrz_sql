@@ -1,23 +1,23 @@
 # MODELOWANIE BAZ DANYCH
 
-## MODEL KONCEPTUALNY (model ogólny)
-    
-- cel: zrozumienie potrzeb biznesowych
+## MODEL KONCEPTUALNY *(model ogólny)*
+
+- **cel:** zrozumienie potrzeb biznesowych
 - encje i powiązania
 
-## MODEL LOGICZNY (model szczegółowy)
+## MODEL LOGICZNY *(model szczegółowy)*
 
-- cel: pośrednik między biznesem (konceptualny), a IT (fizyczny)
-- model konceptualny+:
+- **cel:** pośrednik między biznesem (konceptualny), a IT (fizyczny)
+- **model konceptualny+:**
     - atrybuty
     - normalizacja
     - constrainty
     - specyfikacja wiązań
 
-## MODEL FIZYCZNY (model pod DBMS)
+## MODEL FIZYCZNY *(model pod DBMS)*
 
-- cel: implementacja modelu w DBMS
-- model logiczny+:
+- **cel:** implementacja modelu w DBMS
+- **model logiczny+:**
     - typy danych (typy atrybutów)
     - dodatkowe obiekty (widoki, indeksy, itd.) i kolumny techniczne
     - konwencje nazewnicze
