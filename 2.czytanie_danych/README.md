@@ -13,7 +13,11 @@ Jak dzięki innym klauzulą uzyskać porządany wynik.
     - opis
     - kod
 - filtrowanie rekordów
+    - opis
+    - kod
 - wartość NULL
+    - opis
+    - kod
 - złożone warunki WHERE
 - sortowanie danych
 - grupowanie danych
