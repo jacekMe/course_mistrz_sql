@@ -32,7 +32,6 @@ SELECT *
 FROM pracownicy
 WHERE drugie_imie ='';
 
--- COALESCE sprawdza dwie kolumny
 SELECT *
 FROM pracownicy
 WHERE COALESCE(drugie_imie, '') = '';
