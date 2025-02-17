@@ -7,21 +7,13 @@ Jak dzięki innym klauzulą uzyskać porządany wynik.
 ### ZAWARTOŚĆ TEGO FOLDERU
 
 - instrukcja SELECT
-    - opis
-    - kod
 - aliasy kolumn i wyrażeń
-    - opis
-    - kod
 - filtrowanie rekordów
-    - opis
-    - kod
 - wartość NULL
-    - opis
-    - kod
 - złożone warunki WHERE
 - sortowanie danych
 - grupowanie danych
 - filtracja zagregowanych danych
 - ograniczanie liczby rekordów
 - aliasy tabel
-- komentarze w kodzie
+- ćwiczenia do rozwiązania
